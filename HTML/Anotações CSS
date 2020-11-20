@@ -1,0 +1,12 @@
+Para fazer comentarios usar-se:
+/*Comentario */
+Classes são declaradas comentarios: .nome(.container{})
+.container{
+    margin: 0 auto
+}
+width: 1080px
+
+<meta chaset="uft-8">
+<title>Imagens haha</title>
+<link rel="stylesheet" type="text/css" href="style.css"
+</head>
