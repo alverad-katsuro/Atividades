@@ -1,0 +1,46 @@
+/*  All Page  */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Arial Black", "Times New Roman";
+}
+
+/*  Tags    */
+header{
+    background-color: blue;
+    min-height: 75px;
+}
+
+
+#Esquerda{
+    background-color: rgb(255, 0, 0);
+    font-family: "Times New Roman";
+    min-height: 100px;
+    float: left;
+    width: 60%;
+
+}
+#Direita{
+    background-color: violet;
+    min-height: 100px;
+    width: 40%;
+    float: right;
+}
+
+#Direita a{
+    text-decoration: none;
+    color: black;
+}
+
+#Direita a:hover{
+    color: rgba(255, 0, 221, 1);
+    -webkit-transition: 1s;
+}
+footer{
+    clear: both;
+    background-color: #222;
+    min-height: 50px;
+    text-align: center;
+    padding: 20px 0 0 0;
+
+}
